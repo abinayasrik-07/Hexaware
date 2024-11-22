@@ -17,7 +17,6 @@ namespace PetPals.Repository
             _connectionString = connectionString;
         }
 
-        // Insert a new shelter
         public void InsertShelter(Shelters shelter)
         {
             string query = "INSERT INTO Shelters (Name, Location) VALUES (@Name, @Location)";
@@ -32,7 +31,6 @@ namespace PetPals.Repository
             }
         }
 
-        // Get all shelters
         public List<Shelters> GetAllShelters()
         {
             var shelters = new List<Shelters>();

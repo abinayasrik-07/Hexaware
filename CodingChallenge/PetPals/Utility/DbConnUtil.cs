@@ -1,6 +1,5 @@
 ﻿using Microsoft.Extensions.Configuration;
 
-
 namespace PetPals.Utility
 {
     internal static class DbConnUtil
@@ -11,8 +10,6 @@ namespace PetPals.Utility
         {
             GetAppSettingsFile();
         }
-
-
         private static void GetAppSettingsFile()
         {
             var builder = new ConfigurationBuilder()
@@ -24,8 +21,7 @@ namespace PetPals.Utility
         public static string GetConnectionString()
         {
             return _iconfiguration.GetConnectionString("LocalConnectionString");
+
         }
-
-
     }
 }

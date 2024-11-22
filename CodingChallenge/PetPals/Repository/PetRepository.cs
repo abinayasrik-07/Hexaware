@@ -20,6 +20,8 @@ namespace PetPals.Repository
             cmd = new SqlCommand();
         }
 
+        public object petID { get; private set; }
+
         public void AddPet(Pets pet)
         {
             using (SqlConnection sqlConnection = new SqlConnection(connectionString))
