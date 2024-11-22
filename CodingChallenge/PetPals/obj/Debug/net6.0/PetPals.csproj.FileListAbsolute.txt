@@ -1,0 +1,5 @@
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\CodingChallenge\PetPals\obj\Debug\net6.0\PetPals.csproj.AssemblyReference.cache
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\CodingChallenge\PetPals\obj\Debug\net6.0\PetPals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\CodingChallenge\PetPals\obj\Debug\net6.0\PetPals.AssemblyInfoInputs.cache
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\CodingChallenge\PetPals\obj\Debug\net6.0\PetPals.AssemblyInfo.cs
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\CodingChallenge\PetPals\obj\Debug\net6.0\PetPals.csproj.CoreCompileInputs.cache
