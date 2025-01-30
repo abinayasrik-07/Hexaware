@@ -1,0 +1,57 @@
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop1\bin\Debug\net6.0\TechShop.exe
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop1\bin\Debug\net6.0\TechShop.deps.json
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop1\bin\Debug\net6.0\TechShop.runtimeconfig.json
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop1\bin\Debug\net6.0\TechShop.dll
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop1\bin\Debug\net6.0\TechShop.pdb
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop1\obj\Debug\net6.0\TechShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop1\obj\Debug\net6.0\TechShop.AssemblyInfoInputs.cache
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop1\obj\Debug\net6.0\TechShop.AssemblyInfo.cs
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop1\obj\Debug\net6.0\TechShop.csproj.CoreCompileInputs.cache
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop1\obj\Debug\net6.0\TechShop.dll
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop1\obj\Debug\net6.0\refint\TechShop.dll
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop1\obj\Debug\net6.0\TechShop.pdb
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop1\obj\Debug\net6.0\TechShop.genruntimeconfig.cache
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop1\obj\Debug\net6.0\ref\TechShop.dll
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop\bin\Debug\net6.0\TechShop.exe
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop\bin\Debug\net6.0\TechShop.deps.json
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop\bin\Debug\net6.0\TechShop.runtimeconfig.json
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop\bin\Debug\net6.0\TechShop.dll
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop\bin\Debug\net6.0\TechShop.pdb
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop\obj\Debug\net6.0\TechShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop\obj\Debug\net6.0\TechShop.AssemblyInfoInputs.cache
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop\obj\Debug\net6.0\TechShop.AssemblyInfo.cs
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop\obj\Debug\net6.0\TechShop.csproj.CoreCompileInputs.cache
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop\obj\Debug\net6.0\TechShop.dll
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop\obj\Debug\net6.0\refint\TechShop.dll
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop\obj\Debug\net6.0\TechShop.pdb
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop\obj\Debug\net6.0\TechShop.genruntimeconfig.cache
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop\obj\Debug\net6.0\ref\TechShop.dll
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\ElectronicGadgets\TechShop\obj\Debug\net6.0\TechShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\ElectronicGadgets\TechShop\obj\Debug\net6.0\TechShop.AssemblyInfoInputs.cache
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\ElectronicGadgets\TechShop\obj\Debug\net6.0\TechShop.AssemblyInfo.cs
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\ElectronicGadgets\TechShop\obj\Debug\net6.0\TechShop.csproj.CoreCompileInputs.cache
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\ElectronicGadgets\TechShop\obj\Debug\net6.0\TechShop.dll
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\ElectronicGadgets\TechShop\obj\Debug\net6.0\refint\TechShop.dll
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\ElectronicGadgets\TechShop\obj\Debug\net6.0\TechShop.pdb
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\ElectronicGadgets\TechShop\bin\Debug\net6.0\TechShop.exe
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\ElectronicGadgets\TechShop\bin\Debug\net6.0\TechShop.deps.json
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\ElectronicGadgets\TechShop\bin\Debug\net6.0\TechShop.runtimeconfig.json
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\ElectronicGadgets\TechShop\bin\Debug\net6.0\TechShop.dll
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\ElectronicGadgets\TechShop\bin\Debug\net6.0\TechShop.pdb
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\ElectronicGadgets\TechShop\obj\Debug\net6.0\TechShop.genruntimeconfig.cache
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\ElectronicGadgets\TechShop\obj\Debug\net6.0\ref\TechShop.dll
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\C Sharp\TechShop\obj\Debug\net6.0\TechShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\C Sharp\TechShop\obj\Debug\net6.0\TechShop.AssemblyInfoInputs.cache
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\C Sharp\TechShop\obj\Debug\net6.0\TechShop.AssemblyInfo.cs
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\C Sharp\TechShop\obj\Debug\net6.0\TechShop.csproj.CoreCompileInputs.cache
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\C Sharp\TechShop\obj\Debug\net6.0\TechShop.dll
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\C Sharp\TechShop\obj\Debug\net6.0\refint\TechShop.dll
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\C Sharp\TechShop\obj\Debug\net6.0\TechShop.pdb
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\C Sharp\TechShop\bin\Debug\net6.0\TechShop.exe
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\C Sharp\TechShop\bin\Debug\net6.0\TechShop.deps.json
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\C Sharp\TechShop\bin\Debug\net6.0\TechShop.runtimeconfig.json
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\C Sharp\TechShop\bin\Debug\net6.0\TechShop.dll
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\C Sharp\TechShop\bin\Debug\net6.0\TechShop.pdb
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\C Sharp\TechShop\obj\Debug\net6.0\TechShop.genruntimeconfig.cache
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\C Sharp\TechShop\obj\Debug\net6.0\ref\TechShop.dll
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\C Sharp\TechShop\obj\Debug\net6.0\TechShop.csproj.AssemblyReference.cache

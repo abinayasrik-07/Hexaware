@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TechShop": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

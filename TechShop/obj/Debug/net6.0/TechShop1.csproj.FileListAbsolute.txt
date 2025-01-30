@@ -1,0 +1,14 @@
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop1\obj\Debug\net6.0\TechShop1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop1\obj\Debug\net6.0\TechShop1.AssemblyInfoInputs.cache
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop1\obj\Debug\net6.0\TechShop1.AssemblyInfo.cs
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop1\obj\Debug\net6.0\TechShop1.csproj.CoreCompileInputs.cache
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop1\bin\Debug\net6.0\TechShop1.exe
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop1\bin\Debug\net6.0\TechShop1.deps.json
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop1\bin\Debug\net6.0\TechShop1.runtimeconfig.json
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop1\bin\Debug\net6.0\TechShop1.dll
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop1\bin\Debug\net6.0\TechShop1.pdb
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop1\obj\Debug\net6.0\TechShop1.dll
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop1\obj\Debug\net6.0\refint\TechShop1.dll
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop1\obj\Debug\net6.0\TechShop1.pdb
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop1\obj\Debug\net6.0\TechShop1.genruntimeconfig.cache
+C:\Users\abisr\OneDrive\Desktop\Hexaware\DotNet\TechShop1\obj\Debug\net6.0\ref\TechShop1.dll
